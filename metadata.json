@@ -1,0 +1,7 @@
+{
+  "name": "HAL Legal Website",
+  "description": "A high-fidelity modern law firm website featuring HAL, an AI-powered legal intake agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
